@@ -1,0 +1,8 @@
+@import url('reset.css');
+
+header{
+    
+    height: auto;
+    background-size: auto;
+    background: url('../images/Header\ Background.png');
+}
